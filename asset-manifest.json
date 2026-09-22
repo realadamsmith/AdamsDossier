@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/Logbook/static/css/main.fb8b77eb.css",
-    "main.js": "/Logbook/static/js/main.b3c88023.js",
-    "static/js/738.f98d1230.chunk.js": "/Logbook/static/js/738.f98d1230.chunk.js",
-    "static/js/3.787d0cce.chunk.js": "/Logbook/static/js/3.787d0cce.chunk.js",
-    "static/js/372.16f2d8db.chunk.js": "/Logbook/static/js/372.16f2d8db.chunk.js",
-    "static/js/856.8a6351f7.chunk.js": "/Logbook/static/js/856.8a6351f7.chunk.js",
-    "static/media/Apr16NorthMountain4.jpeg": "/Logbook/static/media/Apr16NorthMountain4.ff1251ec4198e3bf4d20.jpeg",
-    "static/media/CRs.jpeg": "/Logbook/static/media/CRs.67c00fbdfd15bb726ca4.jpeg",
-    "static/media/FalconMillennium.jpeg": "/Logbook/static/media/FalconMillennium.19275162d1d1350210d7.jpeg",
-    "static/media/Tristar3020.jpeg": "/Logbook/static/media/Tristar3020.472b02b005b87163ee73.jpeg",
-    "static/media/DNASUlab.jpg": "/Logbook/static/media/DNASUlab.975b5159da41347292c6.jpg",
-    "static/media/20230628_172041.jpg": "/Logbook/static/media/20230628_172041.6b6b563824b64d447d90.jpg",
-    "static/media/IMG_2960.jpg": "/Logbook/static/media/IMG_2960.0dd9113368ba156f5df5.jpg",
-    "static/media/IMG_1482.jpeg": "/Logbook/static/media/IMG_1482.360848986289cbf8ab04.jpeg",
-    "static/media/MaleyLabChristmas.jpeg": "/Logbook/static/media/MaleyLabChristmas.cb8e4e5077401edf56a5.jpeg",
-    "index.html": "/Logbook/index.html",
-    "main.fb8b77eb.css.map": "/Logbook/static/css/main.fb8b77eb.css.map",
-    "main.b3c88023.js.map": "/Logbook/static/js/main.b3c88023.js.map",
-    "738.f98d1230.chunk.js.map": "/Logbook/static/js/738.f98d1230.chunk.js.map",
-    "3.787d0cce.chunk.js.map": "/Logbook/static/js/3.787d0cce.chunk.js.map",
-    "372.16f2d8db.chunk.js.map": "/Logbook/static/js/372.16f2d8db.chunk.js.map",
-    "856.8a6351f7.chunk.js.map": "/Logbook/static/js/856.8a6351f7.chunk.js.map"
+    "main.css": "/AdamsDossier/static/css/main.f704f201.css",
+    "main.js": "/AdamsDossier/static/js/main.af7d7892.js",
+    "static/js/336.3c114430.chunk.js": "/AdamsDossier/static/js/336.3c114430.chunk.js",
+    "static/js/491.897d2249.chunk.js": "/AdamsDossier/static/js/491.897d2249.chunk.js",
+    "static/js/261.85344cef.chunk.js": "/AdamsDossier/static/js/261.85344cef.chunk.js",
+    "static/js/27.ccd3feaf.chunk.js": "/AdamsDossier/static/js/27.ccd3feaf.chunk.js",
+    "static/media/73022PitchVid3Final.mp4": "/AdamsDossier/static/media/73022PitchVid3Final.0283768c1bee454e5ee8.mp4",
+    "static/media/Chem.mp4": "/AdamsDossier/static/media/Chem.0a1695d9064f48845883.mp4",
+    "static/media/FalconMillennium.jpeg": "/AdamsDossier/static/media/FalconMillennium.19275162d1d1350210d7.jpeg",
+    "static/media/20230628_172041.jpg": "/AdamsDossier/static/media/20230628_172041.6b6b563824b64d447d90.jpg",
+    "static/media/IMG_1482.jpeg": "/AdamsDossier/static/media/IMG_1482.360848986289cbf8ab04.jpeg",
+    "static/media/DF2.JPG": "/AdamsDossier/static/media/DF2.2d47d7371c97b50e623f.JPG",
+    "static/media/FUSION360.png": "/AdamsDossier/static/media/FUSION360.f280e473d2a035ec22a2.png",
+    "static/media/CURIOX1.jpeg": "/AdamsDossier/static/media/CURIOX1.dba4ce96bf029fa022a9.jpeg",
+    "static/media/PLC1.jpeg": "/AdamsDossier/static/media/PLC1.e852043ed4e2d4f329bf.jpeg",
+    "static/media/KICAD3.jpeg": "/AdamsDossier/static/media/KICAD3.7098d2d84c76e5e23420.jpeg",
+    "static/media/DF1.jpg": "/AdamsDossier/static/media/DF1.4dcf1c8cf04b0c1d019c.jpg",
+    "static/media/KICAD1.png": "/AdamsDossier/static/media/KICAD1.b00aa82008cfabcf02aa.png",
+    "static/media/11111111.jpeg": "/AdamsDossier/static/media/11111111.7574e646c3692319cd25.jpeg",
+    "index.html": "/AdamsDossier/index.html"
   },
   "entrypoints": [
-    "static/css/main.fb8b77eb.css",
-    "static/js/main.b3c88023.js"
+    "static/css/main.f704f201.css",
+    "static/js/main.af7d7892.js"
   ]
 }

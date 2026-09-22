@@ -2,7 +2,7 @@
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/realadamsmith/AdamsDossier",
+  "homepage": "https://realadamsmith.github.io/AdamsDossier/",
   "dependencies": {
     "@capacitor/app": "4.0.1",
     "@capacitor/core": "4.3.0",

@@ -1,5 +1,4 @@
 import "./Page.scss";
-import DNASU from "../Assets/DNASUlab.jpg";
 import Curiox1 from "../Assets/20230628_172041.jpg"
 import Curiox2 from "../Assets/IMG_1482.jpeg"
 import CurioxField from "../Assets/CURIOX1.jpeg";
@@ -11,6 +10,8 @@ import KICAD1 from "../Assets/KICAD1.png";
 import KICAD3 from "../Assets/KICAD3.jpeg";
 import Fusion360 from "../Assets/FUSION360.png";
 import PitchVideo from "../Assets/73022PitchVid3Final.mp4";
+import PLC1 from "../Assets/PLC1.jpeg";
+import ChemVideo from "../Assets/Chem.mp4";
 import Footer from './../components/Footer';
 import { useEffect } from 'react';
 
@@ -176,14 +177,21 @@ const Page = () => {
           </div>
           <div className="skillsGrid">
             <div className="skillsCatalog">
-              <div className="skillGroup"><span>01 / Software &amp; data</span><p>PyQt · KiCad · Fusion 360 · C++ · Python · R · NodeJS · Bash · SQL · NoSQL · JMP · Grafana · Tableau · HubSpot · Git · GitHub · PlatformIO IDE</p></div>
-              <div className="skillGroup"><span>02 / Process &amp; lab systems</span><p>Hamilton · Hamilton Nimbus · Biomek FxP · MES · CMP · Wet Etch · WLI · RIE · ICP-OES · Soldering</p></div>
-              <div className="skillGroup"><span>03 / Quality &amp; validation</span><p>IQ OQ PQ · cGMP · Statistical Process Control · Metrology + QA · SPC · Phase Gating · SOP Development · SOPs · Failure Analysis · Cleanroom · Stanford NanoFab Certification</p></div>
-              <div className="skillGroup"><span>04 / Cloud &amp; delivery</span><p><a href="https://www.cloudskillsboost.google/public_profiles/9d7c29a6-1004-43d9-be6a-50abb6d2b106">Google Cloud</a> · <a href="https://learn.microsoft.com/en-us/users/sadaviryamato-0670/transcript/v02y4fm3x29ly22">Azure</a> · AWS CLI · Docker · Github Actions · Postgres</p></div>
+              <div className="skillGroup"><span>01 / Software &amp; data</span><p><b>PyQt</b> <b>KiCad</b> <b>Fusion 360</b> <b>C++</b> <b>Python</b> <b>R</b> <b>NodeJS</b> <b>Bash</b> <b>SQL</b> <b>NoSQL</b> <b>JMP</b> <b>Grafana</b> <b>Tableau</b> <b>HubSpot</b> <b>Git</b> <b>GitHub</b> <b>PlatformIO IDE</b></p></div>
+              <div className="skillGroup"><span>02 / Process &amp; lab systems</span><p><b>Hamilton</b> <b>Hamilton Nimbus</b> <b>Biomek FxP</b> <b>MES</b> <b>CMP</b> <b>Wet Etch</b> <b>WLI</b> <b>RIE</b> <b>ICP-OES</b> <b>Soldering</b></p></div>
+              <div className="skillGroup"><span>03 / Quality &amp; validation</span><p><b>IQ OQ PQ</b> <b>cGMP</b> <b>Statistical Process Control</b> <b>Metrology + QA</b> <b>SPC</b> <b>Phase Gating</b> <b>SOP Development</b> <b>SOPs</b> <b>Failure Analysis</b> <b>Cleanroom</b> <b>Stanford NanoFab Certification</b></p></div>
+              <div className="skillGroup"><span>04 / Cloud &amp; delivery</span><p><a className="skillLink" href="https://www.cloudskillsboost.google/public_profiles/9d7c29a6-1004-43d9-be6a-50abb6d2b106"><b>Google Cloud</b></a> <a className="skillLink" href="https://learn.microsoft.com/en-us/users/sadaviryamato-0670/transcript/v02y4fm3x29ly22"><b>Azure</b></a> <b>AWS CLI</b> <b>Docker</b> <b>GitHub Actions</b> <b>Postgres</b></p></div>
             </div>
-            <div className="skillsImageStack"><img src={DNASU} alt="Laboratory automation and Biomek FXp systems" /><img src={KICAD3} alt="KiCad electronics design and PCB development" /></div>
+            <div className="skillsImageStack">
+              <img src={PLC1} alt="PLC control panel wiring and hardware" />
+              <video className="skillsVideo" autoPlay muted loop playsInline preload="auto">
+                <source src={ChemVideo} type="video/mp4" />
+              </video>
+            </div>
           </div>
-          <div className="contactStrip"><span>Open channel</span><h3>References and connections are always available.</h3><a href="mailto:adamcraysmith@gmail.com" className="contactLink">Start a conversation <span>↗</span></a></div>
+          <div className="contactStrip"><span>Open channel</span><h3>References and connections are always available.</h3><a href="mailto:adamcraysmith@gmail.com" className="contactLink">Start a conversation <span>↗</span></a>
+          </div>
+          
         </section>
       </main>
           <Footer />

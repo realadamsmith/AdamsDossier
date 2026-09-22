@@ -73,7 +73,7 @@ const Page = () => {
               </div>
             </div>
             <div className="heroImageFrame">
-              <a className="heroResume" href="#resume">Resume <span aria-hidden="true">↗</span></a>
+              <a className="heroResume" href="https://docs.google.com/document/d/16a__ptdkFEIYPoUXgRdW2WwLMFIhIJpWm-6zPXxUaLk/edit?usp=sharing">Resume <span aria-hidden="true">↗</span></a>
               <div className="heroImageRule"></div>
               <img src={HeroImage} alt="Adam working in a laboratory" />
                <blockquote className="heroQuote">
@@ -101,7 +101,7 @@ const Page = () => {
               <div><span>Technician culture / 01</span><h3>Guiding a positive, efficient technician team culture.</h3><p>Training and guiding wafer-process technicians in an ISO 5 clean room, translating leadership needs into clear delegation, stronger teamwork, and dependable daily execution.</p></div>
             </article>
             <article className="workFeature">
-              <img src={DiamondFoundry2} alt="Diamond Foundry remote control software work" />
+              <img src={PLC1} alt="Diamond Foundry remote control software work" />
               <div><span>Control software / 02</span><h3>Remote PLC management.</h3><p>Performed diligence, then proposed and developed phased control software for remote PLC management with an estimated $50-150k in annual savings.</p></div>
             </article>
             <article className="workFeature">
@@ -183,7 +183,7 @@ const Page = () => {
               <div className="skillGroup"><span>04 / Cloud &amp; delivery</span><p><a className="skillLink" href="https://www.cloudskillsboost.google/public_profiles/9d7c29a6-1004-43d9-be6a-50abb6d2b106"><b>Google Cloud</b></a> <a className="skillLink" href="https://learn.microsoft.com/en-us/users/sadaviryamato-0670/transcript/v02y4fm3x29ly22"><b>Azure</b></a> <b>AWS CLI</b> <b>Docker</b> <b>GitHub Actions</b> <b>Postgres</b></p></div>
             </div>
             <div className="skillsImageStack">
-              <img src={PLC1} alt="PLC control panel wiring and hardware" />
+              <img src={DiamondFoundry2} alt="PLC control panel wiring and hardware" />
               <video className="skillsVideo" autoPlay muted loop playsInline preload="auto">
                 <source src={ChemVideo} type="video/mp4" />
               </video>

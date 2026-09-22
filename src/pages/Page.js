@@ -90,7 +90,7 @@ const Page = () => {
         </section>
 
         <section className="pastWorkSection scrollSection" data-scroll-reveal id="past-work">
-          <div className="sectionLabel">02 / Diamond Foundry · Lead Wafer Technician</div>
+          <div className="sectionLabel">02 / Diamond Foundry · Lead Wafer Technician 2024-05 - 2025-07</div>
           <div className="sectionIntro">
             <h2>Close to the<br /><span>material.</span></h2>
             <blockquote className="sectionQuote"><span>Field note</span><p>Hands-on precision work where process discipline, equipment awareness, and careful troubleshooting matter every day.</p></blockquote>
@@ -112,7 +112,7 @@ const Page = () => {
         </section>
 
         <section className="curioxSection scrollSection" data-scroll-reveal id="curiox">
-          <div className="sectionLabel">03 / Curiox Biosciences · Field Service Engineer</div>
+          <div className="sectionLabel">03 / Curiox Biosciences · Field Service Engineer 2022-10 - 2023-10</div>
           <div className="sectionIntro">
             <h2>Complex made<br /><span>usable.</span></h2>
             <blockquote className="sectionQuote"><span>Field note</span><p>Bringing lab automation systems from installation to dependable, confident use in the field.</p></blockquote>

@@ -22,13 +22,13 @@ const Footer = () => {
     <footer className="footer">
       <div className="footerLead">
         <span className="footerKicker">End of file / open channel</span>
-        <h2>Let&apos;s make the<br /><em>next system better.</em></h2>
-        <a className="footerArrow" href="mailto:hello@adamsmith.dev" aria-label="Email Adam">↗</a>
+        <h2>Let&apos;s build<br /><em>great software for great hardware.</em></h2>
+        <a className="footerArrow" href="mailto:adamcraysmith@gmail.com" aria-label="Email Adam">↗</a>
       </div>
       <div className="footerGrid">
         <div className="footerBrand">
           <strong>ADAM<span>/</span>FILE</strong>
-          <p>Systems &amp; Forward Deployed Work<br />Sunnyvale, CA</p>
+          <p>Full Stack & Hardware Systems + Forward Deployed Field Engineer<br />Sunnyvale, CA</p>
         </div>
         <div className="footerLinks">
           <span className="footerHeading">Navigate</span>

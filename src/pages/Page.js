@@ -92,7 +92,7 @@ const Page = () => {
         <section className="pastWorkSection scrollSection" data-scroll-reveal id="past-work">
           <div className="sectionLabel">02 / Diamond Foundry · Lead Wafer Technician 2024-05 - 2025-07</div>
           <div className="sectionIntro">
-            <h2>Close to the<br /><span>material.</span></h2>
+            <h2>Software Driven.<br /><span>Hardware Optimized.</span></h2>
             <blockquote className="sectionQuote"><span>Field note</span><p>Hands-on precision work where process discipline, equipment awareness, and careful troubleshooting matter every day.</p></blockquote>
           </div>
           <div className="workFeatureGrid">
@@ -128,7 +128,7 @@ const Page = () => {
             </article>
             <article className="workFeature">
               <img src={Curiox2} alt="Curiox laboratory installation" />
-              <div><span>Customer systems / 02</span><h3>Making the complex usable.</h3><p>Turning technical equipment and processes into dependable customer experiences.</p></div>
+              <div><span>Customer systems / 02</span><h3>Making the complex usable.</h3><p>Turning Curiox's technical equipment and processes into dependable customer experiences.</p></div>
             </article>
             <article className="workFeature">
               <img src={Curiox1} alt="Installing and testing Curiox equipment in a laboratory" />
@@ -152,7 +152,7 @@ const Page = () => {
             </div>
           </div>
           <div className="projectCase projectCaseVideo">
-            <div className="projectCaseHeader"><span>Project 02 / Full-stack commerce platform</span><span>Web + Mobile + Operations</span></div>
+            <div className="projectCaseHeader"><span>Project 02 / Pre-COVID Full-stack B2B2C commerce platform</span><span>Web + Mobile + Partner Integrations</span></div>
             <div className="projectVideoLayout">
               <div className="projectVideoFrame">
                 <video autoPlay controls muted loop playsInline preload="auto">
@@ -177,9 +177,9 @@ const Page = () => {
           </div>
           <div className="skillsGrid">
             <div className="skillsCatalog">
-              <div className="skillGroup"><span>01 / Software &amp; data</span><p><b>PyQt</b> <b>KiCad</b> <b>Fusion 360</b> <b>C++</b> <b>Python</b> <b>R</b> <b>NodeJS</b> <b>Bash</b> <b>SQL</b> <b>NoSQL</b> <b>JMP</b> <b>Grafana</b> <b>Tableau</b> <b>HubSpot</b> <b>Git</b> <b>GitHub</b> <b>PlatformIO IDE</b></p></div>
-              <div className="skillGroup"><span>02 / Process &amp; lab systems</span><p><b>Hamilton</b> <b>Hamilton Nimbus</b> <b>Biomek FxP</b> <b>MES</b> <b>CMP</b> <b>Wet Etch</b> <b>WLI</b> <b>RIE</b> <b>ICP-OES</b> <b>Soldering</b></p></div>
-              <div className="skillGroup"><span>03 / Quality &amp; validation</span><p><b>IQ OQ PQ</b> <b>cGMP</b> <b>Statistical Process Control</b> <b>Metrology + QA</b> <b>SPC</b> <b>Phase Gating</b> <b>SOP Development</b> <b>SOPs</b> <b>Failure Analysis</b> <b>Cleanroom</b> <b>Stanford NanoFab Certification</b></p></div>
+              <div className="skillGroup"><span>01 / Software &amp; data</span><p><b>PyQt</b> <b>PLCs</b> <b>Fusion 360/KiCAD</b> <b>C++</b> <b>Python</b> <b>Rust</b> <b>NodeJS</b> <b>Bash</b> <b>SQL</b> <b>NoSQL</b> <b>JMP</b> <b>Grafana</b> <b>Tableau</b> <b>HubSpot</b> <b>Git</b> <b>GitHub</b> <b>PlatformIO IDE</b></p></div>
+              <div className="skillGroup"><span>02 / Process &amp; lab systems</span><p><b>PLCs</b> <b>Hamilton Automation</b> <b>Biomek FxP</b> <b>MES</b> <b>CMP</b> <b>Wet Etch</b> <b>WLI</b> <b>RIE</b> <b>ICP-OES</b> <b>Soldering</b></p></div>
+              <div className="skillGroup"><span>03 / Quality &amp; validation</span><p><b>IQ OQ PQ</b> <b>cGMP</b> <b>Statistical Process Control</b> <b>Metrology + QA</b> <b>SPC</b> <b>Phase Gating</b> <b>SOP Development</b> <b>Failure Analysis</b> <b>Cleanroom</b> <b>Stanford NanoFab Certification</b></p></div>
               <div className="skillGroup"><span>04 / Cloud &amp; delivery</span><p><a className="skillLink" href="https://www.cloudskillsboost.google/public_profiles/9d7c29a6-1004-43d9-be6a-50abb6d2b106"><b>Google Cloud</b></a> <a className="skillLink" href="https://learn.microsoft.com/en-us/users/sadaviryamato-0670/transcript/v02y4fm3x29ly22"><b>Azure</b></a> <b>AWS CLI</b> <b>Docker</b> <b>GitHub Actions</b> <b>Postgres</b></p></div>
             </div>
             <div className="skillsImageStack">

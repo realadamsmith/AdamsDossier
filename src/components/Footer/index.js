@@ -42,19 +42,10 @@ const Footer = () => {
           <a href="https://thesoda.io/">SODA Alumni</a>
           <a href="https://www.globalshapers.org/impact/themes/sustainable-development">Sustainability</a>
         </div>
-        <form className="footerSubscribe" onSubmit={(e) => handleSubmit(e)}>
-          <span className="footerHeading">Occasional notes</span>
-          <label htmlFor="footer-name">Name</label>
-          <input id="footer-name" placeholder="Your name" name="name" type="text" />
-          <label htmlFor="footer-email">Email</label>
-          <div className="subscribeRow">
-            <input id="footer-email" placeholder="you@example.com" name="email" type="email" />
-            <button type="submit" aria-label="Subscribe">↗</button>
-          </div>
-        </form>
+       
       </div>
       <div className="footerBottom">
-        <p>Copyright © 2022, UNI, LLC</p>
+        <p>Copyright © 2026, Adam's Dossier</p>
         <p>
           <Link to="/ConditionsOfUse"> Conditions of Use</Link> |
           <Link to="/PrivacyNotice"> Privacy Notice</Link>

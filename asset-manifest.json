@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdamsDossier/static/css/main.b17701c5.css",
-    "main.js": "/AdamsDossier/static/js/main.49caaa0d.js",
+    "main.js": "/AdamsDossier/static/js/main.45c3701f.js",
     "static/js/738.f98d1230.chunk.js": "/AdamsDossier/static/js/738.f98d1230.chunk.js",
     "static/js/3.787d0cce.chunk.js": "/AdamsDossier/static/js/3.787d0cce.chunk.js",
     "static/js/372.16f2d8db.chunk.js": "/AdamsDossier/static/js/372.16f2d8db.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/11111111.jpeg": "/AdamsDossier/static/media/11111111.7574e646c3692319cd25.jpeg",
     "index.html": "/AdamsDossier/index.html",
     "main.b17701c5.css.map": "/AdamsDossier/static/css/main.b17701c5.css.map",
-    "main.49caaa0d.js.map": "/AdamsDossier/static/js/main.49caaa0d.js.map",
+    "main.45c3701f.js.map": "/AdamsDossier/static/js/main.45c3701f.js.map",
     "738.f98d1230.chunk.js.map": "/AdamsDossier/static/js/738.f98d1230.chunk.js.map",
     "3.787d0cce.chunk.js.map": "/AdamsDossier/static/js/3.787d0cce.chunk.js.map",
     "372.16f2d8db.chunk.js.map": "/AdamsDossier/static/js/372.16f2d8db.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.b17701c5.css",
-    "static/js/main.49caaa0d.js"
+    "static/js/main.45c3701f.js"
   ]
 }

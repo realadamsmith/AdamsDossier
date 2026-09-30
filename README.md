@@ -1,5 +1,5 @@
 
-https://realadamsmith.github.io/AdamsDossier/#/page/Inbox
+https://realadamsmith.github.io/AdamsDossier
 
 10/12/23
 Heroku outdated.
